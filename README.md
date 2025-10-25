@@ -20,7 +20,7 @@ basic_calculator/
 
 🖥️ How to Run:
 Download or clone the repository
-git clone https://github.com/your-username/basic_calculator.git
+git clone https://github.com/rajeswaritadikonda213-cloud/basic.calculator
 
 Open the folder:
 cd basic_calculator
